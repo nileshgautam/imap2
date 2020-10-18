@@ -1,4 +1,4 @@
-<h1>Gmail Email Inbox using PHP with IMAP</h1>
+<b>Gmail Email Inbox using PHP with IMAP</b>
 <?php
 
 function group_by($key, $data) {
